@@ -12,7 +12,7 @@ $students = [
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>List of students</title>
+  <title>List of students </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body { background: linear-gradient(to bottom, #bedbf8ff, #f7faff); }
